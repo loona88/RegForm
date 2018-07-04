@@ -1,0 +1,28 @@
+* {
+  font-family: verdana;
+}
+.main{
+  display: flex;
+}
+#reg_div {
+  margin-right: 30px;
+  background-color: rgb(73, 139, 161);
+  width: 330px
+}
+section {
+  display: flex
+}
+#log_div {
+  margin-top: 15px;
+  background-color: rgb(73, 139, 161);
+  width: 280px
+}
+.usercard{
+  padding: 15px;
+  font-size: 20px;
+  background-color: rgb(73, 139, 161);
+  width: 330px
+}
+#logout{
+  margin-top: 15px;
+}
